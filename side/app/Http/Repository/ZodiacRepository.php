@@ -39,7 +39,14 @@ class ZodiacRepository
         return $this->zodiac->insert($paramAry);
     }
 
-    public function getListByFilter($filter)
+    /**
+     * GetListByFilter
+     *
+     * @param array $filter
+     *
+     * @return Collection
+     */
+    public function getListByFilter(array $filter)
     {
         $query = $this->zodiac->query();
 
