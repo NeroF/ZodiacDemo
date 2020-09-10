@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="/zodiac">Zodiac</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/NeroF/ZodiacDemogi">GitHub</a>
                 </div>
             </div>
         </div>
